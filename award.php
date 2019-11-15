@@ -139,10 +139,6 @@ if (count($money)==0) {
 }else{
     echo "總共中了".count($money)."張發票";
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 echo "<br>";
 echo "<br>總共獲得:".$tot."元<br>";
 
